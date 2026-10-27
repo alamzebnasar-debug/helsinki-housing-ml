@@ -8,7 +8,7 @@ An end-to-end machine learning system built to predict residential apartment pri
 - **API Service:** FastAPI backend with strict Pydantic input validation and real-time inference.
 
 ---
-
+> **🚀 Try the Live API:** [Access the Interactive Swagger UI Documentation](https://helsinki-housing-ml.onrender.com/docs)
 ## Project Structure
 
 ```text
